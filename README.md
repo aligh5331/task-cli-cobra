@@ -10,3 +10,4 @@ skills
 
 - task-cli task add
 - task-cli task list
+- task-cli task update
