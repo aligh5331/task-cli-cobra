@@ -1,0 +1,5 @@
+task-cli.*
+tasks.json
+
+.idea
+.vscode
